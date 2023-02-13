@@ -7,7 +7,7 @@ git clone https://github.com/AkobArm/random_films.git
 ```
 
 ```
-cd what_to_watch
+cd random_films
 ```
 
 Cоздать и активировать виртуальное окружение:
